@@ -8,7 +8,7 @@ Docker · Kubernetes · Ansible · GitLab CI · GitHub Actions · ArgoCD · pfSe
 * Проекты
 - [ansible-dviz](https://github.com/evgen-dev-ops/ansible-dviz) — управление 3 серверами через Ansible (lb/app/db)
 - [my-cicd-app](https://github.com/evgen-dev-ops/my-cicd-app) — GitOps CI/CD: GitHub Actions → Docker Hub → ArgoCD → K8s
-- [meridian-trust-group](https://github.com/evgen-dev-ops/meridian-trust-group) — CTF-полигон для BSUIRCTF
+- [cyberpoligon](https://github.com/evgen-dev-ops/cyberpoligon-._.-) — CTF-полигон для BSUIRCTF
 
 * Контакты
 Telegram: [@zenekkas](https://t.me/zenekkas)
